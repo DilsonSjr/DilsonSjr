@@ -1,5 +1,5 @@
 ## Ola, Me Chamo Dilson! 👋
-Graduando em Engenharia de Computação, Designer UX/UI e amante de jogos.
+Graduando em Engenharia de Computação na Universidade Federal De Rio Grande, Designer Ux Certificado Pela Google!
 
 <div align=center style="display: inline_block,"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg">
